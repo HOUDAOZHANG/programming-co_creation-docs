@@ -393,7 +393,7 @@ git config --global user.name "Your Name"
 
 5. 找到文件，可以看到我们修改的内容：
 
-   ![(./p0-5-collaborate.assets/image-20230223105224477.png)
+   ![image-20230223105224477](C:\projects\programming-co_creation-docs\docs\p0\p0-5-collaborate.assets\image-20230223105224477.png)
 
 ## 8.将自己的修改提交到共学共创仓库（Pull Request）
 
