@@ -180,7 +180,7 @@ git config --global user.name "Your Name"
    ![image-20230305160315861](./p0-5-collaborate.assets/image-20230305160315861.png)
 
 
-   
+
 
 ### 2.2.Mac
 
@@ -393,15 +393,13 @@ git config --global user.name "Your Name"
 
 5. 找到文件，可以看到我们修改的内容：
 
-   ![image-20230223105224477](./p0-5-collaborate.assets/image-20230223105224477.png)
-
-
+   ![(./p0-5-collaborate.assets/image-20230223105224477.png)
 
 ## 8.将自己的修改提交到共学共创仓库（Pull Request）
 
 下一步，就是要将自己的仓库，提交给共学共创仓库，我们把这个过程叫“Pull Request”，简称PR
 
-1. 点击自己仓库的“Pull requests”标签，点击右侧的“New pull request”按钮：
+1. 点击自己仓库的“Pull requests”   标签，点击右侧的“New pull request”按钮：
 
    ![image-20230223105417392](./p0-5-collaborate.assets/image-20230223105417392.png)
 
